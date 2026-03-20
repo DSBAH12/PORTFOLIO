@@ -81,11 +81,7 @@ const Footer = () => {
 
         <div className="footer-bottom">
           <p>&copy; {currentYear} Abubakarr Bah. All rights reserved.</p>
-          <p className="footer-credit">
-            Built with{" "}
-            <i className="fas fa-heart" style={{ color: "#e74c3c" }}></i> using
-            React
-          </p>
+          <p className="footer-credit"></p>
         </div>
       </div>
     </footer>
