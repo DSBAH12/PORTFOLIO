@@ -8,7 +8,7 @@ const Projects = () => {
       title: "Ummah Hub",
       description:
         "A fully responsive e-commerce platform built with HTML, CSS, and Bootstrap. Features include product catalog, shopping cart, and user authentication.",
-      image: "/images/fme-img.png",
+      image: "images/fme-img.png",
       link: "#",
     },
     {
@@ -16,7 +16,7 @@ const Projects = () => {
       title: "Brotherhood Connect",
       description:
         "A web portal for university students to access courses, assignments, and grades. Designed with a clean and intuitive interface.",
-      image: "/images/TENOVA.png",
+      image: "images/TENOVA.png",
       link: "#",
     },
     {
@@ -24,7 +24,7 @@ const Projects = () => {
       title: "Personal Blog",
       description:
         "A responsive blog website showcasing articles and posts. Includes modern design elements and smooth animations.",
-      image: "/images/personal-blog.jpg",
+      image: "images/personal-blog.jpg",
       link: "#",
     },
     {
@@ -32,7 +32,7 @@ const Projects = () => {
       title: "Restaurant Website",
       description:
         "An elegant restaurant website with menu display, online reservation system, and beautiful image galleries.",
-      image: "/images/restaurant-website.jpg",
+      image: "images/restaurant-website.jpg",
       link: "#",
     },
   ];
