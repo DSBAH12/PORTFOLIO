@@ -7,7 +7,7 @@ const Projects = () => {
       id: 1,
       title: "Ummah Hub",
       description:
-        "A fully responsive e-commerce platform built with HTML, CSS, and Bootstrap. Features include product catalog, shopping cart, and user authentication.",
+        "Ummah Hub is a responsive global community platform. Features include faith-based networking, resource sharing, and collaborative event management.",
       image: "images/fme-img.png",
       link: "#",
     },
@@ -15,7 +15,7 @@ const Projects = () => {
       id: 2,
       title: "Brotherhood Connect",
       description:
-        "A web portal for university students to access courses, assignments, and grades. Designed with a clean and intuitive interface.",
+        "A responsive community platform fostering unity and collaboration. Includes member networking, group discussions, and event coordination..",
       image: "images/TENOVA.png",
       link: "#",
     },
@@ -23,15 +23,15 @@ const Projects = () => {
       id: 3,
       title: "VLN Solutions Library Management System",
       description:
-        "A responsive blog website showcasing articles and posts. Includes modern design elements and smooth animations.",
-      image: "images/vln-solutions.PNG",
+        "A responsive library management system with book cataloguing, user accounts, and borrowing/return tracking for efficient resource management.",
+      image: "images/vln-solutions.png",
       link: "#",
     },
     {
       id: 4,
       title: "Logistic Management System",
       description:
-        "An elegant restaurant website with menu display, online reservation system, and beautiful image galleries.",
+        "A responsive logistics platform streamlining supply chain operations. Includes shipment tracking, inventory management, and automated reporting tools.",
       image: "images/logistics.jpg",
       link: "#",
     },
